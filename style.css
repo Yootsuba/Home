@@ -90,6 +90,9 @@ a {
         background: url(reze_cov_2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
+        background-position: center;
+        height: 75vh;
     }
 }
+
 
