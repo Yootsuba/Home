@@ -84,4 +84,12 @@ a {
     .enter {
         font-size: 18px;
     }
+    body{
+        margin: 0;
+        padding: 0;
+        background: url(reze_cov_2.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
 }
+
